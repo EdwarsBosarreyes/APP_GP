@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="seleccione_inicial">
+        <item>Seleccione</item>
+    </string-array>
+    <string-array name="valvula_20">
+        <item>Seleccione</item>
+        <item>Digas</item>
+        <item>Llave</item>
+    </string-array>
+    <string-array name="valvula_25">
+        <item>Seleccione</item>
+        <item>Tropigas</item>
+        <item>Digas</item>
+    </string-array>
+    <string-array name="valvula_35">
+        <item>Seleccione</item>
+        <item>Tropigas</item>
+        <item>Digas</item>
+        <item>Shellane</item>
+    </string-array>
+    <string-array name="valvula_40">
+        <item>Seleccione</item>
+        <item>Digas</item>
+        <item>Llave</item>
+    </string-array>
+    <string-array name="valvula_60">
+        <item>Seleccione</item>
+        <item>Digas</item>
+        <item>Llave</item>
+    </string-array>
+    <string-array name="valvula_100">
+        <item>Seleccione</item>
+        <item>Shellane</item>
+        <item>Llave</item>
+    </string-array>
+
+</resources>

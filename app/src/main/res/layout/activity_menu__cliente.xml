@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TROPI EXPRESS"
+        android:gravity="center"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="#D2271A"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Menú Cliente"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#780a0a"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        >
+        <Button
+            android:id="@+id/btnRealizarPedido"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Realizar Pedido"
+            android:textSize="12sp"
+            android:textColor="#FFFF"
+            android:background="#ea511e"
+            android:layout_marginBottom="10dp"/>
+        <Button
+            android:id="@+id/btnCatalogo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Catálogo de Productos"
+            android:textColor="#FFFF"
+            android:textSize="12sp"
+            android:background="#ea511e"/>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">APP TROPI EXPRESS</string>
+    <string name="title_activity_mapa_cliente">Map</string>
+    <string name="title_activity_mapa_punto_venta">Map</string>
+    <string name="title_activity_mapa_seleccionar_pv">Map</string>
+    <string name="title_activity_mapa_seleccion_pv">Map</string>
+    <string name="title_activity_mapa_ubicacion_cliente">Map</string>
+</resources>
